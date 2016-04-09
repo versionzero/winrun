@@ -1,0 +1,1 @@
+rm -f /c/winrun/run; echo "C:/Windows/notepad.exe" >| /c/winrun/run
